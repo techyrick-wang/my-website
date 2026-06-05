@@ -1,0 +1,8 @@
+{
+  "name": "Innovator Portfolio",
+  "description": "A professional personal website and portfolio for a high school student showcasing projects, blog progress, and a gallery of innovations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
